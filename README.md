@@ -4,7 +4,7 @@ A secure banking verification system using voice recognition and advanced passwo
 
 ## Project Overview
 
-![System Screenshot](screenshots/main_screen.png)
+![image](https://github.com/user-attachments/assets/cbc52d3c-bf03-4c77-aa20-d98c481f75cf)
 
 Voice Vault is a secure banking application that combines traditional password verification with biometric voice authentication. The application features a modern, user-friendly interface with a focus on security and reliability.
 
@@ -19,17 +19,18 @@ Voice Vault is a secure banking application that combines traditional password v
 
 ## Screenshots
 
-### Login Screen
-![Login Screen](screenshots/login_screen.png)
+### Signin Screen
+![image](https://github.com/user-attachments/assets/90945d11-1f98-49ed-9ef2-d6d66ab3ace3)
 
-### User Dashboard
-![User Dashboard](screenshots/dashboard.png)
 
 ### Voice Authentication
-![Voice Authentication](screenshots/voice_auth.png)
+![image](https://github.com/user-attachments/assets/7ada9dd8-7d54-4209-88e6-087df338219e)
 
-### Deposit Window
-![Deposit Window](screenshots/deposit.png)
+### Account Window
+![image](https://github.com/user-attachments/assets/686adb24-ed2e-4264-8095-3f9a378cadfd)
+
+### Transactions Window
+![image](https://github.com/user-attachments/assets/ff3d6000-1588-4ac6-8b25-7dff90e2f9c2)
 
 ## Requirements
 
@@ -62,7 +63,7 @@ python gui.py
 
 ## System Architecture
 
-![System Architecture](screenshots/system_architecture.png)
+![image](https://github.com/user-attachments/assets/c338864f-5e36-4f73-83c9-c484725f09e3)
 
 1. **Dual Authentication**: Users can choose to verify using password or voice
 2. **Voice Processing**: Voice is recorded, processed, and features are extracted
