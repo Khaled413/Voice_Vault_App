@@ -1,0 +1,39 @@
+{
+    "user1": {
+        "full_name": "Ahmed Mohamed",
+        "username": "user1",
+        "email": "ahmed@example.com",
+        "phone": "+201234567890",
+        "password": "password1",
+        "balance": 25000.5,
+        "vault_status": "Active",
+        "profile_pic": null
+    },
+    "user2": {
+        "full_name": "Sara Ali",
+        "username": "user2",
+        "email": "sara@example.com",
+        "phone": "+201122334455",
+        "password": "password2",
+        "balance": 10500.75,
+        "vault_status": "Active",
+        "profile_pic": null
+    },
+    "Khaled_66": {
+        "full_name": "Khaled Ali Shokry Ali Eleraky ",
+        "username": "Khaled_66",
+        "email": "ka1739102@gmail.com",
+        "phone": "01060716168",
+        "password": "@918273$Khaled&645#",
+        "balance": 10000.0,
+        "vault_type": "Standard",
+        "vault_status": "Active",
+        "profile_pic": null,
+        "voice_authenticated": true,
+        "voice_samples": [
+            "Khaled_66_sample_1_1745544176.wav",
+            "Khaled_66_sample_2_1745544182.wav",
+            "Khaled_66_sample_3_1745544191.wav"
+        ]
+    }
+}
